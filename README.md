@@ -116,16 +116,16 @@ You can find all of code explanations in our website: [**Integrations**](https:/
 
 :white_check_mark: [**ChatGPT builder create Action with Python**](https://runmercury.com/use/gpt-builder-action/) 
 
-- :notebook_with_decorative_cover: [notebook](https://github.com/mljar/mercury-integrations/blob/main/gpt-builder/what-time-is-it.ipynb)]
+- :notebook_with_decorative_cover: [Create Action](https://github.com/mljar/mercury-integrations/blob/main/gpt-builder/what-time-is-it.ipynb)
 
 :white_check_mark: [**Custom action to send email from ChatGPT**](https://runmercury.com/use/gpt-builder-action-send-email/) 
 
-- :notebook_with_decorative_cover: [notebook](https://github.com/mljar/mercury-integrations/blob/main/gpt-builder/send-email.ipynb)]
+- :notebook_with_decorative_cover: [Send Email](https://github.com/mljar/mercury-integrations/blob/main/gpt-builder/send-email.ipynb)
 
 :white_check_mark: [**ChatGPT Action to query database**](https://runmercury.com/use/gpt-action-query-database/) 
 
-- :notebook_with_decorative_cover: [notebook](https://github.com/mljar/mercury-integrations/blob/main/gpt-builder/query-database.ipynb)]
+- :notebook_with_decorative_cover: [Query Database](https://github.com/mljar/mercury-integrations/blob/main/gpt-builder/query-database.ipynb)
 
 :white_check_mark: [**Use Google Sheets in custom ChatGPT**](https://runmercury.com/use/gpt-builder-sheets/) 
 
-- :notebook_with_decorative_cover: [notebook](https://github.com/mljar/mercury-integrations/blob/main/gpt-builder/gpt-sheets.ipynb)]
+- :notebook_with_decorative_cover: [Google Sheets](https://github.com/mljar/mercury-integrations/blob/main/gpt-builder/gpt-sheets.ipynb)
