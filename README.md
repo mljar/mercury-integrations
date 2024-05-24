@@ -10,6 +10,11 @@ You can find all of code explanations in our website: [**Integrations**](https:/
   
   - :notebook_with_decorative_cover: [Bar Chart](https://github.com/mljar/mercury-integrations/blob/main/visualizations/matplotlib/matplotlib-bar-chart.ipynb)
   - :notebook_with_decorative_cover: [Interactive Bar Chart](https://github.com/mljar/mercury-integrations/blob/main/visualizations/matplotlib/matplotlib-interactive-bar-chart.ipynb)
+
+  :white_check_mark: [**Hexbin Chart**](https://runmercury.com/use/jupyter-notebook-matplotlib-hexbin-chart/)
+  
+  - :notebook_with_decorative_cover: [Hexbin Chart](https://github.com/mljar/mercury-integrations/blob/main/visualizations/matplotlib/matplotlib-hexbin-chart.ipynb)
+  - :notebook_with_decorative_cover: [Interactive Hexbin Chart](https://github.com/mljar/mercury-integrations/blob/main/visualizations/matplotlib/matplotlib-interactive-hexbin-chart.ipynb)
   
   :white_check_mark: [**Histogram Chart**](https://runmercury.com/use/jupyter-notebook-matplotlib-histogram-chart/)
   
@@ -86,6 +91,11 @@ You can find all of code explanations in our website: [**Integrations**](https:/
   - :notebook_with_decorative_cover: [Interactive Scatter Chart](https://github.com/mljar/mercury-integrations/blob/main/visualizations/seaborn/seaborn-interactive-scatter-chart.ipynb)
 
 - ### Vega-Altair
+
+  :white_check_mark: [**Area Chart**](https://runmercury.com/use/jupyter-notebook-vega-altair-area-chart/)
+  
+  - :notebook_with_decorative_cover: [Area Chart](https://github.com/mljar/mercury-integrations/blob/main/visualizations/vega-altair/vega-altair-area-chart.ipynb)
+  - :notebook_with_decorative_cover: [Interactive Area Chart](https://github.com/mljar/mercury-integrations/blob/main/visualizations/vega-altair/vega-altair-interactive-area-chart.ipynb)
   
   :white_check_mark: [**Bar Chart**](https://runmercury.com/use/jupyter-notebook-vega-altair-bar-chart/)
   
